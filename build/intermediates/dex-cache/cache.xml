@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.0-416c3510502ba9634cc6560b04d546229ffd1dfc.jar"
+        jar="/Users/Cee/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/classes-146e0fa38c6b823d3e7a50fdff46dfc81d16e435.jar"
+        jar="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/classes-e6598ac51baa3a6695489eb0515fcca555b4c05c.jar"
+        jar="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/exploded-aar/OpenCv/openCVLibrary2410/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f1bafcb8390f883a58b00a315899cbacbf274980"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/classes-26813d1f5ef57b931c15afa6cfe3dd46ac5330da.jar"
+        jar="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.1-d42753de41aaa3495813b317bd04565b5656fb70.jar"
+        jar="/Users/Cee/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.1/e2a00ad1d7e540ec395e9296a34da484c8888d4d/jackson-core-2.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-17e125de15f06484bb1462cbbbe471d36a5c248b.jar"
+        jar="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/spring-android-core-2.0.0.M1-a946fdfd403112d1af6f1443d82ad87b499d0aac.jar"
+        jar="/Users/Cee/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M1/26b2d3262a0c5f8de663deeb6481d132d871fffa/spring-android-core-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="26b2d3262a0c5f8de663deeb6481d132d871fffa"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-2.0.0.M1-74148411a4852c908306710497c6ce5421ef2884.jar"
+        jar="/Users/Cee/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M1/6abb1e22445a4e4571c74632804e4179b43d82b5/spring-android-rest-template-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6abb1e22445a4e4571c74632804e4179b43d82b5"/>
+    <item
+        dex="/Users/Cee/Documents/AndroidStudioWorkSpace/OpenCv/app/build/intermediates/pre-dexed/debug/jackson-databind-2.5.1-0a396631cc273ab8bc75a259e4e243429df8df04.jar"
+        jar="/Users/Cee/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.1/5e57baebad3898aca8a825adaf2be6fd189442f2/jackson-databind-2.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e57baebad3898aca8a825adaf2be6fd189442f2"/>
+
+</pre-dex-items>
